@@ -99,7 +99,7 @@ The notebook persists reusable assets:
 ```
 .
 ├─ Predictive_Analysis_for_Platinum_Deposit_Subscription.ipynb
-├─ models/
+├─ model-and-encoder/
 │  ├─ final_model_rf.pkl
 │  └─ one_hot_encoder.pkl
 └─ README.md
